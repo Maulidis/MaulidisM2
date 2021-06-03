@@ -1,1 +1,1 @@
-![alt text](https://github.com/Maulidis/MaulidisM2/blob/master/SC1.jpg)
+![alt jpg](https://github.com/Maulidis/MaulidisM2/blob/master/SC1.jpg)
