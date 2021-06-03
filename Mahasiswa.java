@@ -1,15 +1,17 @@
 /**
- * Write a description of class Mahasiswa here.
+ * class Mahasiswa 
  *
- * @author Maulidis Rezeki
- * @version (a version number or a date)
+ * @author Maulidis Rezelki
+ * @version  0.1
  */
 public class Mahasiswa
 {
-    // instance variables - replace the example below with your own
-    private int nim, umur;
-    private String nama, alamat, kelas;
-    
+      // instance variables - replace the example below with your own
+    private int nim;
+    private int umur;
+    private String nama; 
+    private String alamat;
+    private String kelas;
     
     /**
      * Constructor for objects of class Mahasiswa
@@ -57,4 +59,24 @@ public class Mahasiswa
     public void setnamaMhs(String nama){
         this.nama = nama;
     }
+      public void setalamatMhs(String alamat){
+        this.alamat = alamat;
+    }
+    
+    public void setkelasMhs(String kelas){
+        this.kelas = kelas;
+    }
+    
+    public void setnimMhs(int nim){
+        this.nim = nim;
+    }
+    
+    public void setumurMhs(int umur){
+        this.umur = umur;
+    }
+   
+    
+  
+    
+    
 }
