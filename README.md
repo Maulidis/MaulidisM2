@@ -1,2 +1,3 @@
-Hasil Gambar Aplikasi Array
+oooo
+
 ![image](https://github.com/Maulidis/MaulidisM2/blob/master/SC1.jpg)
