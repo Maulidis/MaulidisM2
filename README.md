@@ -20,4 +20,4 @@ Kalkulator Sederhana
 
 ![image](https://github.com/Maulidis/MaulidisM2/blob/master/SC8.jpg)
 
-![gif](https://github.com/Maulidis/MaulidisM2/blob/master/TesKalkulator.mp4)
+![Video](https://github.com/Maulidis/MaulidisM2/blob/master/TesKalkulator.mp4)
